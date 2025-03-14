@@ -1,1 +1,0 @@
-# microsoft-developer-impl-data-struct-vscode
